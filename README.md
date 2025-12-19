@@ -36,6 +36,11 @@ Data Structures with C++
     │   └── AdjacencyMatrixGraph.cpp
     ├── Set\
     │   └── UnionFindSet.cpp
+    ├── Hash\
     ├── Sorting Algorithms (empty)
     └── String (empty)
+```
+
+```bash
+git clone https://github.com/xiaoze-xiaoze/Data-Structures-with-CPP.git
 ```
