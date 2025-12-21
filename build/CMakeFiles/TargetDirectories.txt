@@ -1,3 +1,4 @@
-D:/Data Structures and Algorithms/Data Structures with C++/build/CMakeFiles/ds_demo.dir
+D:/Data Structures and Algorithms/Data Structures with C++/build/CMakeFiles/ds_main.dir
+D:/Data Structures and Algorithms/Data Structures with C++/build/CMakeFiles/test_graph.dir
 D:/Data Structures and Algorithms/Data Structures with C++/build/CMakeFiles/edit_cache.dir
 D:/Data Structures and Algorithms/Data Structures with C++/build/CMakeFiles/rebuild_cache.dir

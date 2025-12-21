@@ -1,4 +1,4 @@
-#include "Error.hpp"
+#include "error.hpp"
 
 std::string error_message(DataStructureError error) {
     switch (error) {
@@ -11,6 +11,9 @@ std::string error_message(DataStructureError error) {
         case DataStructureError::DuplicateValue: return "Duplicate value";
         case DataStructureError::CycleDetected: return "Cycle detected in graph";
         case DataStructureError::InvalidOperation: return "Invalid operation for this graph type";
+        case DataStructureError::InvalidRange: return "Invalid range";
+        case DataStructureError::InvalidSampleSize: return "Invalid sample size";
+        case DataStructureError::RandomGenerationFailed: return "Random generation failed";
         default: return "Unknown error";
     }
 }

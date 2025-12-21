@@ -16,7 +16,10 @@ enum class DataStructureError {
     ElementNotFound,
     DuplicateValue,
     CycleDetected,
-    InvalidOperation
+    InvalidOperation,
+    InvalidRange,
+    InvalidSampleSize,
+    RandomGenerationFailed,
 };
 
 std::string error_message(DataStructureError e);

@@ -44,5 +44,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/ds_demo.dir/DependInfo.cmake"
+  "CMakeFiles/ds_main.dir/DependInfo.cmake"
+  "CMakeFiles/test_graph.dir/DependInfo.cmake"
   )
